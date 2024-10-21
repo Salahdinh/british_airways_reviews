@@ -1,8 +1,8 @@
-# Project Documentation for Tableau Portfolio Project: Interactive Dashboard
+# Tableau Project: British Airways Reviews
 
 ## Project Overview
 
-This documentation explains how to create an interactive Tableau dashboard based on the YouTube video titled "TABLEAU PORTFOLIO PROJECT | End-To-End Data Visualization Project | Advanced Parameters and Filters." The project aims to build a dashboard that lets users explore and visualize data from British Airways reviews, with options for various filters and parameters.
+This documentation explains how to create an interactive Tableau dashboard. The project aims to build a dashboard that lets users explore and visualize data from British Airways reviews, with options for various filters and parameters.
 
 ## Objective
 
@@ -77,8 +77,3 @@ Connect the BA Reviews and Countries datasets using the **place** column from th
 ## Conclusion
 
 This Tableau project demonstrates effective data visualization through an interactive dashboard, enhancing user experience with dynamic metrics and filtering options. This documentation serves as a guide for recreating the project and can be useful for future data visualization efforts.
-
-### Resources
-
-- **YouTube Video**: [TABLEAU PORTFOLIO PROJECT | End-To-End Data Visualization Project | Advanced Parameters and Filters](https://www.youtube.com/watch/KlAKAarfLRQ)
-- **Tableau Dashboard and Data Files**: Links will be provided in the video description.
